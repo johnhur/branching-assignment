@@ -1,0 +1,13 @@
+img {
+	max-height: 300px;
+	max-width: 200px;
+	width: 120px;
+	height: 200px;
+}
+#font {
+	font-family: helvetica;
+	font-size: 30px;
+	color: lightgreen;
+	background-color: brown;
+
+}
